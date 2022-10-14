@@ -1,0 +1,103 @@
+ISO country code,Country,World region,Survey,Year,Multidimensional Poverty Index (MPI = H*A) Urban,Headcount ratio: Population in multidimensional poverty (H) Urban,Intensity of deprivation among the poor (A) Urban,Population vulnerable to poverty (who experience 20-33.32% intensity of deprivations) Urban,Population in severe poverty (with intensity higher than 50%) Urban,Urban Population shares,rank
+KAZ,Kazakhstan,Europe and Central Asia,MICS,2015,0,0,33.3,0.1,0,53.2,1
+SRB,Serbia,Europe and Central Asia,MICS,2014,0,0.1,41.4,0.9,0,59.1,1
+KGZ,Kyrgyzstan,Europe and Central Asia,MICS,2014,0,0.1,40.2,1.8,0,31.6,1
+TUN,Tunisia,Arab States,MICS,11-Dec,0,0.1,35.6,0.7,0,65.8,1
+ARM,Armenia,Europe and Central Asia,DHS,2010,0,0.2,33.3,0.3,0,61.7,1
+MKD,"Macedonia, The former Yugoslav Republic of",Europe and Central Asia,MICS,2011,0,0.3,36.3,1,0,55.7,1
+TKM,Turkmenistan,Europe and Central Asia,MICS,2015/16,0,0.4,33.9,0.9,0,38.6,1
+MDA,"Moldova, Republic of",Europe and Central Asia,MICS,2012,0,0.3,42.2,1.4,0.1,36.1,1
+GUY,Guyana,Latin America and Caribbean,MICS,2014,0,0.4,38.2,3.7,0,26.1,1
+MNE,Montenegro,Europe and Central Asia,MICS,2013,0,0.4,47.2,1.7,0.2,62.6,1
+LCA,Saint Lucia,Latin America and Caribbean,MICS,2012,0,0.5,36.7,0.9,0,18.8,1
+MEX,Mexico,Latin America and Caribbean,MICS,2015,0,0.5,38,1.8,0,76.6,1
+THA,Thailand,East Asia and the Pacific,MICS,2012,0,0.6,37.1,4.2,0,41.9,1
+BIH,Bosnia and Herzegovina,Europe and Central Asia,MICS,11-Dec,0,0.6,36.5,1.5,0,34.2,1
+DZA,Algeria,Arab States,MICS,2012/13,0,0.7,36.9,2.9,0,63.3,1
+ALB,Albania,Europe and Central Asia,DHS,8-Sep,0,0.8,37.7,3,0,45.1,1
+UKR,Ukraine,Europe and Central Asia,MICS,2012,0,1,33.7,0.1,0,72.1,1
+BRB,Barbados,Latin America and Caribbean,MICS,2012,0,1.1,34.2,0.1,0,62.6,1
+UZB,Uzbekistan,Europe and Central Asia,MICS,2006,0,1.1,33.9,1.9,0,31.2,1
+PSE,"Palestine, State ofa",Arab States,MICS,2014,0,1.1,38.5,6.7,0.1,74.5,1
+JAM,Jamaica,Latin America and Caribbean,JSLC,2012,0,1.1,40,4.7,0.1,50.4,1
+ECU,Ecuador,Latin America and Caribbean,ECV,2013/14,0,1.5,36.5,3.7,0.1,67.5,1
+MDV,Maldives,South Asia,DHS,2009,0,1.6,33.3,1.1,0,31.1,1
+JOR,Jordan,Arab States,DHS,2012,0,1.7,34.7,0.5,0.1,81.8,1
+BLZ,Belize,Latin America and Caribbean,MICS,2011,0,1.6,37.9,1.8,0.3,43.8,1
+CHN,China,East Asia and the Pacific,CFPS,2014,0,1.9,38.9,10.6,0.1,55.2,1
+EGY,Egypt,Arab States,DHS,2014,0,2.1,36.8,1,0.3,37.2,1
+SUR,Suriname,Latin America and Caribbean,MICS,2010,0,2.3,36.7,1.9,0.2,71.3,1
+COL,Colombia,Latin America and Caribbean,DHS,2010,0,2.3,37.2,2.3,0.3,74.6,1
+MAR,Morocco,Arab States,PAPFAM,10-Nov,0,2.4,36.2,3.9,0.2,54.8,1
+AZE,Azerbaijan,Europe and Central Asia,DHS,2006,0,2.5,37.1,8.2,0.2,55,1
+SLV,El Salvador,Latin America and Caribbean,MICS,2014,0,2.4,40.3,4.8,0.5,61,1
+MNG,Mongolia,East Asia and the Pacific,MICS,2013,0,2.8,36.4,7.2,0.1,63.3,1
+SYR,Syrian Arab Republic,Arab States,PAPFAM,2009,0,3,35.5,4,0.2,54.8,1
+PER,Peru,Latin America and Caribbean,DHS-Cont,2012,0,2.9,38.6,6.4,0.4,68.6,1
+VNM,Viet Nam,East Asia and the Pacific,MICS,2013/14,0,3.6,36.9,1.4,0.2,31.9,1
+ZAF,South Africa,Sub-Saharan Africa,NIDS,2014/15,0,3.6,37.4,7.7,0.3,58.9,1
+NIC,Nicaragua,Latin America and Caribbean,DHS,11-Dec,0,3.8,40,7.9,0.6,57.6,1
+BRA,Brazil,Latin America and Caribbean,PNAD,2014,0,4.1,38.3,3.1,0.4,85,1
+TTO,Trinidad and Tobago,Latin America and Caribbean,MICS,2006,0,5.4,33.6,0.2,0,16.6,1
+BTN,Bhutan,South Asia,MICS,2010,0,4.7,39.5,7.6,0.6,28.3,1
+BOL,"Bolivia, Plurinational State of",Latin America and Caribbean,DHS,2008,0,4.9,39.4,13.6,0.7,59.1,1
+TJK,Tajikistan,Europe and Central Asia,DHS,2012,0,5.5,36.3,7.6,0.5,24,1
+SWZ,Swaziland,Sub-Saharan Africa,MICS,2014,0,5.2,39.4,13,0.7,26.4,1
+HND,Honduras,Latin America and Caribbean,DHS,11-Dec,0,5.2,41.6,11.7,0.9,48.1,1
+IRQ,Iraq,Arab States,MICS,2011,0,7.7,36,2.2,0.9,69.4,1
+KHM,Cambodia,East Asia and the Pacific,DHS,2014,0,7.1,39.4,14.3,0.8,16.3,1
+DOM,Dominican Republic,Latin America and Caribbean,MICS,2014,0,7.9,37.2,2.8,0.8,75,1
+NPL,Nepal,South Asia,MICS,2014,0,7,43.8,8.5,2.1,17.4,1
+LAO,Lao People's Democratic Republic,East Asia and the Pacific,MICS/DHS,11-Dec,0,7.4,43.4,18.8,1.7,25.6,1
+ZWE,Zimbabwe,Sub-Saharan Africa,DHS,2015,0,8.7,39.3,14.5,0.9,30,1
+PHL,Philippines,East Asia and the Pacific,DHS,2013,0,8.1,42.7,2.4,1.9,48,1
+VUT,Vanuatu,East Asia and the Pacific,MICS,2007,0,9.8,39.3,17.2,1.7,22.8,1
+IDN,Indonesia,East Asia and the Pacific,DHS,2012,0,10.2,38.7,3.1,1.3,49.8,1
+MMR,Myanmar,East Asia and the Pacific,DHS,2015/16,0,9.6,41.7,16.7,1.9,26.5,1
+LSO,Lesotho,Sub-Saharan Africa,DHS,2014,0,11,39.8,16.8,2.6,28.7,1
+GAB,Gabon,Sub-Saharan Africa,DHS,2012,0,10.9,40.7,21.7,1.9,84.3,1
+GTM,Guatemala,Latin America and Caribbean,DHS,2014/15,0,10.7,44.5,17.7,3.1,42.3,1
+IND,India,South Asia,IHDS,11-Dec,0.1,14.8,43.3,23.8,3.8,31.5,2
+STP,Sao Tome and Principe,Sub-Saharan Africa,MICS,2014,0.1,15.9,42.3,17.7,3.4,66.7,2
+GHA,Ghana,Sub-Saharan Africa,DHS,2014,0.1,17.6,42.7,25.3,3.7,49.5,2
+KEN,Kenya,Sub-Saharan Africa,DHS,2014,0.1,17.3,43.6,21.3,4.8,33.8,2
+YEM,Yemen,Arab States,DHS,2013,0.1,19,42.1,15.1,4.7,30.6,2
+TGO,Togo,Sub-Saharan Africa,DHS,2013/14,0.1,19.6,41.5,24.2,3.7,37.7,2
+COM,Comoros,Sub-Saharan Africa,DHS-MICS,2012,0.1,18.5,45.2,20.9,6.4,31.2,2
+PAK,Pakistan,South Asia,DHS,2012/13,0.1,20,43.3,7.3,5.9,32.3,2
+NAM,Namibia,Sub-Saharan Africa,DHS,2013,0.1,20.3,43,15.4,5.5,47.4,2
+CMR,Cameroon,Sub-Saharan Africa,DHS,2011,0.1,19.9,45.6,20.1,6.7,48,2
+MWI,Malawi,Sub-Saharan Africa,DHS,2015/16,0.1,23.2,42.4,26.7,5,14.6,2
+BGD,Bangladesh,South Asia,DHS,2014,0.1,22.5,44.7,20.4,6.8,27,2
+COG,"Congo, Republic of",Sub-Saharan Africa,DHS,11-Dec,0.1,24.5,42.8,24.3,6.7,63.7,2
+RWA,Rwanda,Sub-Saharan Africa,DHS,2014/15,0.1,24.8,44.2,24.9,7.5,17.1,2
+HTI,Haiti,Latin America and Caribbean,DHS,2012,0.1,25.2,44.6,26.9,7.7,40.5,2
+MDG,Madagascar,Sub-Saharan Africa,DHS,8-Sep,0.1,24.9,45.3,23.3,7.5,14,2
+MRT,Mauritania,Sub-Saharan Africa,MICS,2011,0.1,25.2,47,20.2,10.3,43.5,2
+TZA,"Tanzania, United Republic of",Sub-Saharan Africa,DHS,2015/16,0.1,27.7,44.3,26,8.2,29.2,2
+DJI,Djibouti,Arab States,MICS,2006,0.1,27.2,46.6,16.3,10.9,96.3,2
+ZMB,Zambia,Sub-Saharan Africa,DHS,2013/14,0.1,29.5,44,22.2,8.6,39.5,2
+NGA,Nigeria,Sub-Saharan Africa,DHS,2013,0.1,28.1,47,22.2,10.5,39.9,2
+AFG,Afghanistan,South Asia,DHS,2015/16,0.1,28.8,45.8,14.2,10.8,23.9,2
+UGA,Uganda,Sub-Saharan Africa,DHS,2011,0.1,29.2,45.5,27.2,10.2,14.9,2
+SDN,Sudan,Arab States,MICS,2014,0.1,28.7,46.3,19.6,11,31,2
+SEN,Senegal,Sub-Saharan Africa,DHS,2015,0.1,29.7,47.7,20.7,12.3,42.9,2
+CIV,Cote d'Ivoire,Sub-Saharan Africa,DHS,11-Dec,0.2,35,46.8,26.8,12.7,44.8,3
+GIN,Guinea,Sub-Saharan Africa,DHS-MICS,2012,0.2,37.7,46.6,31.5,13.6,31.9,3
+TLS,Timor-Leste,East Asia and the Pacific,DHS,9-Oct,0.2,37.3,47.3,27.4,14.1,22.5,3
+GMB,Gambia,Sub-Saharan Africa,DHS,2013,0.2,38.3,47.8,27.6,17.5,49.4,3
+MLI,Mali,Sub-Saharan Africa,DHS,2012/13,0.2,40.9,46.3,27.1,15.5,21.5,3
+MOZ,Mozambique,Sub-Saharan Africa,DHS,2011,0.2,38.2,49.6,24,17.5,31.3,3
+BEN,Benin,Sub-Saharan Africa,DHS,11-Dec,0.2,41,46.8,27.6,16.2,40.9,3
+GNB,Guinea-Bissau,Sub-Saharan Africa,MICS,2014,0.2,43.6,45.7,20.9,17,44.3,3
+BDI,Burundi,Sub-Saharan Africa,DHS,2010,0.2,43.1,48.5,25,18.1,9.9,3
+BFA,Burkina Faso,Sub-Saharan Africa,DHS,2010,0.2,45.8,49.4,21.4,22.4,21.8,3
+COD,"Congo, Democratic Republic of the",Sub-Saharan Africa,DHS,2013/14,0.2,48.6,47,27.3,19.5,33.1,3
+ETH,Ethiopia,Sub-Saharan Africa,DHS,2011,0.2,46.4,49.5,23.5,21,17.9,3
+SLE,Sierra Leone,Sub-Saharan Africa,DHS,2013,0.3,56.3,48.2,23.5,25.4,30.9,3
+NER,Niger,Sub-Saharan Africa,DHS,2012,0.3,53.9,51.2,22.9,28.6,16.4,3
+CAF,Central African Republic,Sub-Saharan Africa,MICS,2010,0.3,58.2,49.7,24.5,28.3,38.7,3
+LBR,Liberia,Sub-Saharan Africa,DHS,2013,0.3,60.5,48,20.7,26.9,55.9,3
+SOM,Somalia,Arab States,MICS,2006,0.3,55.9,52.4,21,30.8,38.4,3
+TCD,Chad,Sub-Saharan Africa,DHS,2014/15,0.4,64.8,54.1,18.4,36.8,22.1,3
+SSD,South Sudan,Sub-Saharan Africa,MICS,2010,0.5,82.5,55.7,11.3,53.2,25.3,3

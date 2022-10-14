@@ -1,0 +1,103 @@
+ISO country code,Country,World region,Multidimensional Poverty Index (MPI) National,Urban Population shares,Rural Population shares,Multidimensional Poverty Index (MPI = H*A) Rural,Headcount ratio: Population in multidimensional poverty (H) Rural,Intensity of deprivation among the poor (A) Rural,Population vulnerable to poverty (who experience 20-33.32% intensity of deprivations) Rural,Population in severe poverty (with intensity higher than 50%) Rural
+KAZ,Kazakhstan,Europe and Central Asia,0,53.2,46.8,0,0.1,33.3,1.5,0
+MNE,Montenegro,Europe and Central Asia,0.001,62.6,37.4,0,0.1,41.1,6.1,0
+TKM,Turkmenistan,Europe and Central Asia,0.001,38.6,61.4,0.001,0.3,34.3,2.8,0
+ARM,Armenia,Europe and Central Asia,0.001,61.7,38.3,0.001,0.4,36.9,7.2,0
+BIH,Bosnia and Herzegovina,Europe and Central Asia,0.002,34.2,65.8,0.002,0.4,38,5.2,0
+BRB,Barbados,Latin America and Caribbean,0.003,62.6,37.4,0.002,0.6,34.3,0.1,0
+SRB,Serbia,Europe and Central Asia,0.001,59.1,40.9,0.002,0.5,40.3,5.5,0.2
+KGZ,Kyrgyzstan,Europe and Central Asia,0.002,31.6,68.4,0.003,0.7,37.1,6.9,0.1
+PSE,"Palestine, State ofa",Arab States,0.004,74.5,16.6,0.003,0.9,36.2,2.6,0
+MDA,"Moldova, Republic of",Europe and Central Asia,0.003,36.1,63.9,0.003,1,34.7,5.7,0
+LCA,Saint Lucia,Latin America and Caribbean,0.003,18.8,81.2,0.004,1,35.2,0.9,0
+THA,Thailand,East Asia and the Pacific,0.003,41.9,58.1,0.004,1.1,36.5,9.6,0
+MKD,"Macedonia, The former Yugoslav Republic of",Europe and Central Asia,0.002,55.7,44.3,0.004,1.2,35.5,5.2,0
+UKR,Ukraine,Europe and Central Asia,0.004,72.1,27.9,0.006,1.8,36.3,0.9,0
+JOR,Jordan,Arab States,0.006,81.8,18.2,0.007,1.8,36.2,1.6,0
+ALB,Albania,Europe and Central Asia,0.005,45.1,54.9,0.007,1.9,37.7,11,0.1
+JAM,Jamaica,Latin America and Caribbean,0.007,50.4,49.6,0.01,2.5,38.7,12.1,0.2
+UZB,Uzbekistan,Europe and Central Asia,0.008,31.2,68.8,0.01,2.9,36.6,10.9,0.1
+DZA,Algeria,Arab States,0.006,63.3,36.7,0.011,2.7,40,8.1,0.4
+TUN,Tunisia,Arab States,0.004,65.8,34.2,0.012,3.2,38.7,8.3,0.2
+MEX,Mexico,Latin America and Caribbean,0.005,76.6,23.4,0.014,3.4,41.1,9.6,0.6
+EGY,Egypt,Arab States,0.014,37.2,62.8,0.017,4.4,38.5,8,0.5
+GUY,Guyana,Latin America and Caribbean,0.013,26.1,73.9,0.017,4.3,40.4,7,0.7
+TTO,Trinidad and Tobago,Latin America and Caribbean,0.02,16.6,83.4,0.02,5.7,35.4,0.5,0.3
+SYR,Syrian Arab Republic,Arab States,0.016,54.8,45.2,0.023,6,38.5,9.1,0.7
+MDV,Maldives,South Asia,0.018,31.1,68.9,0.024,6.8,35.8,6.4,0.4
+BLZ,Belize,Latin America and Caribbean,0.018,43.8,56.2,0.028,7,39.9,9.7,1
+CHN,China,East Asia and the Pacific,0.017,55.2,44.5,0.028,6.7,42.1,24.4,0.6
+ECU,Ecuador,Latin America and Caribbean,0.013,67.5,32.5,0.03,7.7,39.3,12.5,1
+AZE,Azerbaijan,Europe and Central Asia,0.021,55,45,0.035,8.8,40.2,17.7,1.2
+VNM,Viet Nam,East Asia and the Pacific,0.029,31.9,68.1,0.036,8.8,41.4,4.2,1.7
+DOM,Dominican Republic,Latin America and Caribbean,0.034,75,25,0.048,11.7,41,7.8,2.1
+SLV,El Salvador,Latin America and Caribbean,0.026,61,39,0.052,12.5,41.8,15.2,3
+BRA,Brazil,Latin America and Caribbean,0.021,85,15,0.054,12,45.1,24.2,2.8
+COL,Colombia,Latin America and Caribbean,0.022,74.6,25.4,0.061,14.4,42.6,18.4,3.6
+SUR,Suriname,Latin America and Caribbean,0.024,71.3,28.7,0.063,14.9,42.3,10.5,3.4
+TJK,Tajikistan,Europe and Central Asia,0.054,24,76,0.065,15.6,41.3,25,3.2
+ZAF,South Africa,Sub-Saharan Africa,0.036,58.9,41.1,0.068,17.2,39.7,25,2
+PHL,Philippines,East Asia and the Pacific,0.052,48,52,0.068,13.7,49.9,9.2,7.2
+SWZ,Swaziland,Sub-Saharan Africa,0.066,26.4,73.6,0.083,19.8,41.7,26.3,4.3
+IRQ,Iraq,Arab States,0.045,69.4,30.6,0.083,20.5,40.6,13.4,4.3
+IDN,Indonesia,East Asia and the Pacific,0.066,49.8,50.2,0.093,20.7,45,10.9,7
+MNG,Mongolia,East Asia and the Pacific,0.041,63.3,36.7,0.093,22.2,42,36.6,2.8
+STP,Sao Tome and Principe,Sub-Saharan Africa,0.081,66.7,33.3,0.11,26.2,42.1,22.9,5.5
+PER,Peru,Latin America and Caribbean,0.043,68.6,31.4,0.113,27.1,41.6,27.2,5.5
+HND,Honduras,Latin America and Caribbean,0.072,48.1,51.9,0.119,25.7,46.5,29.7,7.2
+MAR,Morocco,Arab States,0.067,54.8,45.2,0.139,31.2,44.4,22,10
+NPL,Nepal,South Asia,0.126,17.4,82.6,0.147,33.1,44.2,18.1,11.2
+NIC,Nicaragua,Latin America and Caribbean,0.072,57.6,42.4,0.15,32.8,45.8,22.4,11.8
+VUT,Vanuatu,East Asia and the Pacific,0.129,22.8,77.2,0.155,36.1,43,38.4,7.9
+BTN,Bhutan,South Asia,0.119,28.3,71.7,0.159,36,44.2,21,11.6
+GTM,Guatemala,Latin America and Caribbean,0.113,42.3,57.7,0.161,35.1,45.9,25,12.7
+MMR,Myanmar,East Asia and the Pacific,0.134,26.5,73.5,0.168,37.5,44.8,24.2,11.9
+KHM,Cambodia,East Asia and the Pacific,0.146,16.3,83.7,0.169,38.1,44.5,23,12.5
+LSO,Lesotho,Sub-Saharan Africa,0.14,28.7,71.3,0.179,40.4,44.3,29.8,11.5
+BOL,"Bolivia, Plurinational State of",Latin America and Caribbean,0.089,59.1,40.9,0.191,43,44.4,26.1,13.2
+ZWE,Zimbabwe,Sub-Saharan Africa,0.152,30,70,0.202,46.3,43.7,31.1,13.9
+GAB,Gabon,Sub-Saharan Africa,0.07,84.3,15.7,0.209,46.6,44.8,25.8,14.4
+COM,Comoros,Sub-Saharan Africa,0.173,31.2,68.8,0.213,44,48.5,21.7,18.7
+LAO,Lao People's Democratic Republic,East Asia and the Pacific,0.174,25.6,74.4,0.223,43.3,51.4,21.3,22
+BGD,Bangladesh,South Asia,0.196,27,73,0.231,48.2,47.9,23.2,19
+GHA,Ghana,Sub-Saharan Africa,0.156,49.5,50.5,0.235,49.4,47.5,20.7,21
+KEN,Kenya,Sub-Saharan Africa,0.187,33.8,66.2,0.245,51.4,47.5,31.9,19.5
+IND,India,South Asia,0.191,31.5,68.5,0.25,53.5,46.7,22.5,21.2
+MWI,Malawi,Sub-Saharan Africa,0.251,14.6,85.4,0.277,58.9,47,29.6,22.2
+NAM,Namibia,Sub-Saharan Africa,0.193,47.4,52.6,0.288,61.5,46.9,21.5,23.6
+RWA,Rwanda,Sub-Saharan Africa,0.259,17.1,82.9,0.289,59.8,48.4,26.6,25.8
+PAK,Pakistan,South Asia,0.23,32.3,67.7,0.299,55.7,53.6,18.8,32.2
+YEM,Yemen,Arab States,0.236,30.6,69.4,0.304,57.7,52.7,20.3,31.4
+COG,"Congo, Republic of",Sub-Saharan Africa,0.181,63.7,36.3,0.316,66.4,47.5,24.5,29.6
+HTI,Haiti,Latin America and Caribbean,0.248,40.5,59.5,0.341,65.9,51.7,19.7,36.3
+AFG,Afghanistan,South Asia,0.295,23.9,76.1,0.347,64.7,53.6,15.1,36.9
+TZA,"Tanzania, United Republic of",Sub-Saharan Africa,0.284,29.2,70.8,0.351,68.6,51.2,23.3,36
+SDN,Sudan,Arab States,0.287,31,69,0.356,64.5,55.1,16.3,41.1
+TGO,Togo,Sub-Saharan Africa,0.252,37.7,62.3,0.356,68.6,51.9,20.3,36.2
+ZMB,Zambia,Sub-Saharan Africa,0.281,39.5,60.5,0.38,74.2,51.3,19.5,38.6
+BEN,Benin,Sub-Saharan Africa,0.307,40.9,59.1,0.386,76.9,50.2,13.8,40.3
+CMR,Cameroon,Sub-Saharan Africa,0.248,48,52,0.393,70.2,56,17.8,42.1
+MDG,Madagascar,Sub-Saharan Africa,0.357,14,86,0.396,73.7,53.8,17,39.9
+UGA,Uganda,Sub-Saharan Africa,0.367,14.9,85.1,0.408,77.1,52.9,17.6,43.1
+MRT,Mauritania,Sub-Saharan Africa,0.285,43.5,56.5,0.413,72.9,56.6,15.3,48.2
+TLS,Timor-Leste,East Asia and the Pacific,0.36,22.5,77.5,0.414,77,53.7,15.6,45.9
+NGA,Nigeria,Sub-Saharan Africa,0.303,39.9,60.1,0.416,70,59.5,14.4,47.7
+CIV,Cote d'Ivoire,Sub-Saharan Africa,0.31,44.8,55.2,0.429,78,55,13.2,49.5
+DJI,Djibouti,Arab States,0.139,96.3,3.7,0.44,83.2,52.9,11.3,53.4
+GMB,Gambia,Sub-Saharan Africa,0.323,49.4,50.6,0.459,82,56,10.6,55.8
+SEN,Senegal,Sub-Saharan Africa,0.331,42.9,57.1,0.472,81,58.3,12.3,57.9
+MOZ,Mozambique,Sub-Saharan Africa,0.389,31.3,68.7,0.48,83.9,57.2,11.9,57.5
+BDI,Burundi,Sub-Saharan Africa,0.454,9.9,90.1,0.481,84.9,56.6,12.9,54.1
+LBR,Liberia,Sub-Saharan Africa,0.374,55.9,44.1,0.481,84.9,56.6,11.2,55.5
+COD,"Congo, Democratic Republic of the",Sub-Saharan Africa,0.401,33.1,66.9,0.486,88.2,55.1,10.6,57.4
+GNB,Guinea-Bissau,Sub-Saharan Africa,0.371,44.3,55.7,0.507,85.4,59.4,11.7,60.3
+CAF,Central African Republic,Sub-Saharan Africa,0.43,38.7,61.3,0.519,89.8,57.8,9.9,63.6
+MLI,Mali,Sub-Saharan Africa,0.457,21.5,78.5,0.53,87.7,60.5,6.6,65.2
+SLE,Sierra Leone,Sub-Saharan Africa,0.464,30.9,69.1,0.551,92,59.8,6.7,67.7
+SSD,South Sudan,Sub-Saharan Africa,0.557,25.3,74.7,0.591,94,62.8,5.4,77.2
+GIN,Guinea,Sub-Saharan Africa,0.459,31.9,68.1,0.591,92.6,63.9,4.5,73.3
+TCD,Chad,Sub-Saharan Africa,0.552,22.1,77.9,0.609,93.4,65.2,6.4,75.7
+BFA,Burkina Faso,Sub-Saharan Africa,0.535,21.8,78.2,0.621,94.7,65.6,3.1,77.8
+ETH,Ethiopia,Sub-Saharan Africa,0.564,17.9,82.1,0.637,96.3,66.2,3.2,82.1
+SOM,Somalia,Arab States,0.514,38.4,61.6,0.651,96.9,67.2,2.3,87.3
+NER,Niger,Sub-Saharan Africa,0.605,16.4,83.6,0.669,96.2,69.5,3,83.2

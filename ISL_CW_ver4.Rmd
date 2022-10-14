@@ -1,0 +1,123 @@
+---
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+
+```{r}
+getwd()
+setwd("/Users/appler/desktop")
+```
+```{r}
+#data <- read.csv("world-happiness-report-2021_choose.csv")
+data <- read.csv("world-happiness-report-2021.csv")
+head(data)
+data
+```
+```{r}
+country <- data$Country.name
+region <- data$Regional.indicator
+countrydata <- data[, -(1:3)]
+countrydata <- scale(countrydata)
+head(countrydata)
+```
+```{r}
+countrydata <-countrydata[, -10]
+head(countrydata)
+```
+```{r}
+#rownames(countrydata) <- paste("country", 1:149, sep = "")
+rownames(countrydata) <- paste(data$Country.name, sep = "")
+head(countrydata)
+```
+```{r}
+country.eucdist <- dist(countrydata)
+```
+```{r}
+# Apply scaling. Initially choose n’ = 16
+country.euccs <- cmdscale(country.eucdist, k=16, eig=TRUE) 
+country.euccs$eig
+```
+```{r}
+plot(1:149, country.euccs$eig, xlab="Eigenvalue number",
+ylab="Eigenvalue")
+abline(h=0, lty=2)
+abline(v=9, lty=2, col=2)
+```
+# Log Abs Eigenvalues
+```{r}
+the.eigs <- country.euccs$eig 
+#the.eigs[9] <- NA
+plot(1:149, log(abs(the.eigs)), xlab="Eigenvalue number",
+ylab="Log(Abs(Eigenvalue))", type="n")
+points(1:8, log(abs(the.eigs[1:8])), col=1)
+points(9:149, log(abs(the.eigs[9:149])), col=4)
+abline(h=0, lty=2)
+abline(v=9, lty=2, col=2)
+arrows(x0=25, y0=1, x1=9, y1=0)
+text(x=45, y=1.9, label="Zero eigenvalue")
+legend(x="topright", col=c(1,4), pch=1,
+legend=c("Positive", "Negative"))
+```
+```{r}
+plot(country.euccs$points[,1], country.euccs$points[,2], type="n", xlab="Y[,1]", ylab="Y[,2]", main='Euclidean 2D Projection')
+text(country.euccs$points[,1], country.euccs$points[,2], lab=dimnames(countrydata)[[1]], cex=0.5)
+```
+```{r}
+country.eusiso <- isoMDS(country.eucdist) 
+```
+```{r}
+plot(country.eusiso$points[,1], country.eusiso$points[,2], type="n", xlab="Y[,1]", ylab="Y[,2]", main='Euclidean 2D Projection')
+text(country.eusiso$points[,1], country.eusiso$points[,2], lab=dimnames(countrydata)[[1]], cex=0.5)
+```
+Procrustes in R
+```{r}
+install.packages("nloptr", type="binary")
+install.packages("smacof")
+```
+```{r}
+library(smacof)
+library(smacof)
+```
+```{r}
+#X <- cbind(as.numeric(frcity[,2]), as.numeric(frcity[,3]))
+X <- country.euccs$x
+Y <- cbind(country.euccs$points[,1], country.euccs$points[,2])
+fr.procr <- Procrustes(X=X, Y=Y)
+
+#frcitynames <- frcity[,1]
+
+plot(X[,2], X[,1], type="n", xlim=c(-5.1, 8.8),ylim=c(41.5,51.5))
+
+text(X[,2], X[,1], lab=data$Country.name, cex=0.7)
+
+text(fr.procr$Yhat[,2], fr.procr$Yhat[,1], lab=data$Country.name,cex=0.7, col=2)
+```
+```{r}
+country3 <- kmeans(x=country.euccs$points, centers=3, nstart=16)
+plot(country.euccs$points[,1], country.euccs$points[,2], type="n")
+text(country.euccs$points[,1], country.euccs$points[,2], col=country3$cluster, lab=country3$cluster)
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
